@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Thu, 28 Mar 2019 07:44:37 +0000</dateCreated>
+    <title>Tiny Tiny RSS Feed Export</title>
+  </head>
+  <body>
+    <outline text="Crypto News">
+      <outline type="rss" text="AMBCrypto" xmlUrl="https://ambcrypto.com/feed/" htmlUrl="https://ambcrypto.com"/>
+      <outline type="rss" text="Bitcoin Magazine" xmlUrl="https://bitcoinmagazine.com/feed/" htmlUrl="https://bitcoinmagazine.com"/>
+      <outline type="rss" text="Bitcoin News" xmlUrl="https://news.bitcoin.com/feed/" htmlUrl="https://news.bitcoin.com"/>
+      <outline type="rss" text="Bitcoinist.com" xmlUrl="https://bitcoinist.com/feed/" htmlUrl="https://bitcoinist.com"/>
+      <outline type="rss" text="Blockmanity" xmlUrl="https://blockmanity.com/feed/" htmlUrl="https://blockmanity.com"/>
+      <outline type="rss" text="CCN" xmlUrl="https://www.ccn.com/feed" htmlUrl="https://www.ccn.com"/>
+      <outline type="rss" text="Chepicap.com" xmlUrl="https://www.chepicap.com/en/rss" htmlUrl="https://www.chepicap.com/"/>
+      <outline type="rss" text="CoinCentral" xmlUrl="https://coincentral.com/feed/" htmlUrl="https://coincentral.com"/>
+      <outline type="rss" text="CoinDesk" xmlUrl="https://feeds.feedburner.com/CoinDesk" htmlUrl="https://www.coindesk.com"/>
+      <outline type="rss" text="Coingape" xmlUrl="https://coingape.com/feed/" htmlUrl="https://coingape.com"/>
+      <outline type="rss" text="Cointelegraph News" xmlUrl="https://cointelegraph.com/rss" htmlUrl="https://cointelegraph.com"/>
+      <outline type="rss" text="CryptoNinjas" xmlUrl="https://www.cryptoninjas.net/feed/" htmlUrl="https://www.cryptoninjas.net"/>
+      <outline type="rss" text="Cryptovest" xmlUrl="https://cryptovest.com/feed/" htmlUrl="https://cryptovest.com/feed"/>
+      <outline type="rss" text="NewsBTC" xmlUrl="https://www.newsbtc.com/feed/" htmlUrl="https://www.newsbtc.com"/>
+      <outline type="rss" text="The Merkle Hash" xmlUrl="https://themerkle.com/feed/" htmlUrl="https://themerkle.com"/>
+      <outline type="rss" text="Toshi Times" xmlUrl="https://toshitimes.com/feed/" htmlUrl="https://toshitimes.com"/>
+    </outline>
+  </body>
+</opml>
